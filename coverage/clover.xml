@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1645547627258" clover="3.2.0">
-  <project timestamp="1645547627258" name="All files">
-    <metrics statements="13" coveredstatements="10" conditionals="6" coveredconditionals="3" methods="2" coveredmethods="2" elements="21" coveredelements="15" complexity="0" loc="13" ncloc="13" packages="1" files="2" classes="2"/>
+<coverage generated="1645549976532" clover="3.2.0">
+  <project timestamp="1645549976532" name="All files">
+    <metrics statements="17" coveredstatements="14" conditionals="6" coveredconditionals="3" methods="3" coveredmethods="3" elements="26" coveredelements="20" complexity="0" loc="17" ncloc="17" packages="1" files="3" classes="3"/>
     <file name="test1.js" path="/home/nemwelb/Microverse/Module2/unitTestsPractice/mytests/test1.js">
       <metrics statements="8" coveredstatements="6" conditionals="4" coveredconditionals="2" methods="1" coveredmethods="1"/>
       <line num="1" count="1" type="stmt"/>
@@ -20,6 +20,13 @@
       <line num="4" count="0" type="stmt"/>
       <line num="6" count="1" type="stmt"/>
       <line num="10" count="1" type="stmt"/>
+    </file>
+    <file name="test4.js" path="/home/nemwelb/Microverse/Module2/unitTestsPractice/mytests/test4.js">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="4" count="2" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
     </file>
   </project>
 </coverage>
