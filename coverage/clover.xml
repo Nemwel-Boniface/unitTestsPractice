@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1645540173182" clover="3.2.0">
-  <project timestamp="1645540173182" name="All files">
-    <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2" elements="6" coveredelements="6" complexity="0" loc="4" ncloc="4" packages="2" files="2" classes="2"/>
+<coverage generated="1645541567619" clover="3.2.0">
+  <project timestamp="1645541567619" name="All files">
+    <metrics statements="10" coveredstatements="8" conditionals="4" coveredconditionals="2" methods="2" coveredmethods="2" elements="16" coveredelements="12" complexity="0" loc="10" ncloc="10" packages="2" files="2" classes="2"/>
     <package name="unitTestsPractice">
       <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <file name="sum.js" path="/home/nemwelb/Microverse/Module2/unitTestsPractice/sum.js">
@@ -11,11 +11,17 @@
       </file>
     </package>
     <package name="unitTestsPractice.mytests">
-      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <metrics statements="8" coveredstatements="6" conditionals="4" coveredconditionals="2" methods="1" coveredmethods="1"/>
       <file name="test1.js" path="/home/nemwelb/Microverse/Module2/unitTestsPractice/mytests/test1.js">
-        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-        <line num="1" count="2" type="stmt"/>
-        <line num="3" count="1" type="stmt"/>
+        <metrics statements="8" coveredstatements="6" conditionals="4" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="4" type="stmt"/>
+        <line num="4" count="4" type="cond" truecount="1" falsecount="1"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="6" count="4" type="cond" truecount="1" falsecount="1"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="9" count="4" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
       </file>
     </package>
   </project>
