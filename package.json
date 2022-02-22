@@ -1,0 +1,23 @@
+{
+  "name": "unittestspractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nemwel-Boniface/unitTestsPractice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nemwel-Boniface/unitTestsPractice/issues"
+  },
+  "homepage": "https://github.com/Nemwel-Boniface/unitTestsPractice#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
