@@ -4,5 +4,5 @@ const capitalize = (string) => {
   return string.charAt(0).toUpperCase() + string.slice(1);
 }
 
-console.log(capitalize('meja'));
+// console.log(capitalize('meja'));
 module.exports = capitalize;
